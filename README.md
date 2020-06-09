@@ -1,5 +1,7 @@
 # ShutDownSTEM
 
+<img src="images/SDS_Banner.png" width="1200">
+
 On June 10, 2020, we will #ShutDownAcademia, #ShutDownSTEM, and #Strike4BlackLives. 
 
 In the wake of the most recent murders of Black people in the US, it is clear that white and other non-Black people have to step up and do the work to eradicate anti-Black racism. As members of the global academic and STEM communities, we have an enormous ethical obligation to stop doing “business as usual.” No matter where we physically live, we impact and are impacted by this moment in history.
